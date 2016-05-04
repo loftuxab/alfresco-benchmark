@@ -16,3 +16,4 @@ bin/
 
 # Archetype reused source
 */archetype/src/main/resources/archetype-resources/src/
+data
